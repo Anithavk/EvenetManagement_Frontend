@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+:root {
+  --brand-color: #4f46e5;
+}
+
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+  background-color: #f9fafb;
+  color: #111827;
+}
+
+html, body, #root {
+  min-height: 100%;
+  margin: 0;
+}
+
+footer {
+  background: #1f2937;
+  color: white;
+  padding: 16px;
+  text-align: center;
+}
