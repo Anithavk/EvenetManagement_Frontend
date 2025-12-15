@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState } from "react";
-import EventCard from "../components/EventCard";
+import EventCard from "../components/EventCard.jsx";
 
 const API_URL = "http://localhost:4000/api/events";
 
