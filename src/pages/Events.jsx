@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useState } from "react";
 import EventCard from "../components/EventCard.jsx";
 
-const API_URL = "http://localhost:4000/api/events";
+const API_URL = "https://event-backend-0f5t.onrender.com/api/events";
 
 /* ---------- HELPERS ---------- */
 
